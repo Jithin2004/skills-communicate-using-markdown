@@ -6,3 +6,4 @@
 How it looks
 
 Just played with headder tags
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
